@@ -35,12 +35,81 @@ Staying on schedule is probably the most difficult aspect of 3.042, and as the e
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Introductory lecture, lab tours, initial discussion/brainstorming of projects |
-| 2 | Teams present brief overview of proposed projects |
-| 3 | Team Web site up with content |
-| 4 | Formal design review |
-| 5-9 | Project teams present progress and plans |
-| 10 | All teams showcase prototypes |
-| 14 | Final presentations, posters
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory lecture, lab tours, initial discussion/brainstorming of projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Teams present brief overview of proposed projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Team Web site up with content
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Formal design review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-9
+{{< tdclose >}}
+{{< tdopen >}}
+Project teams present progress and plans
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+All teams showcase prototypes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations, posters
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
